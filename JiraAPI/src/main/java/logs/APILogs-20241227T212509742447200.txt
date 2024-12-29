@@ -20,6 +20,6 @@ Transfer-Encoding: chunked
 
 {
     "id": "10031",
-    "key": "ATP-23",
+    "key": "***-23",
     "self": "https://domainurl/rest/api/3/issue/10031"
 }
