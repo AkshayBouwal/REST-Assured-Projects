@@ -1,12 +1,12 @@
 Request method:	POST
-Request URI:	https://akshaybouwal.atlassian.net/rest/api/3/issue
+Request URI:	https://domainurl/rest/api/3/issue
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
-				Authorization=Basic YWtzaGF5Ym91d2FsQGhvdG1haWwuY29tOkFUQVRUM3hGZkdGMGpicElScGRMWDlZTlpvMVlCaE8tUVRUMkdYa2dJemFWdzV2dWFPUl9sbWw0cDhBdmpsRnB5NWZvWE4wMDZURldscXJ1ZHVBenlIcXlyalQtM2ZsVzE1RHZyNHJBTzRWT0N6bllfTnlIaFlhOUp6bm5OOENqRk5CRXpXUkJSWTZwMXVEY2I3OVg2bkVJN2ZYdFdQaWJ0bE8tU2RtbUYzOFBHcDdtb1M1bzVuYz1EMjYxMzg4Mg==
+				Authorization=Basic Token Key
 				Content-Type=application/json
 Cookies:		<none>
 Multiparts:		<none>
