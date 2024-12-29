@@ -3,15 +3,15 @@ Date: Fri, 27 Dec 2024 15:55:11 GMT
 Content-Type: application/json;charset=UTF-8
 Server: AtlassianEdge
 Timing-Allow-Origin: *
-X-Arequestid: 40b8f55218109798fcb9af05cd11ed32
-Set-Cookie: atlassian.xsrf.token=6d41e2bb28ae0c97db980d32696020a7b3397eb5_lin; Path=/; SameSite=None; Secure
-X-Aaccountid: 712020%3A5731ec1e-91f5-46d2-8ba4-96a6ca3f427d
+X-Arequestid: **********
+Set-Cookie: atlassian.xsrf.token=*************_lin; Path=/; SameSite=None; Secure
+X-Aaccountid: ******************
 Cache-Control: no-cache, no-store, no-transform
 Vary: Accept-Encoding
 X-Content-Type-Options: nosniff
 X-Xss-Protection: 1; mode=block
-Atl-Traceid: cde11ba077af4042953693953e83fe61
-Atl-Request-Id: cde11ba0-77af-4042-9536-93953e83fe61
+Atl-Traceid: *********************
+Atl-Request-Id: ************************
 Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
 Report-To: {"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}
 Nel: {"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}
@@ -21,5 +21,5 @@ Transfer-Encoding: chunked
 {
     "id": "10031",
     "key": "ATP-23",
-    "self": "https://akshaybouwal.atlassian.net/rest/api/3/issue/10031"
+    "self": "https://domainurl/rest/api/3/issue/10031"
 }
